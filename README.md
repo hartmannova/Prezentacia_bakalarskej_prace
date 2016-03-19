@@ -5,3 +5,5 @@ stav teórie: 100%
 stav praktickej časti: 0%
 
 školitel: Burianová
+
+zmena priamo na githube
