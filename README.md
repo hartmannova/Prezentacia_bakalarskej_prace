@@ -1,9 +1,9 @@
-﻿Názov: Elektronické volby
+﻿Názov: E-PARLAMENTNÉ VOĽBY NA SLOVENSKU 
 
-Dátum odovzdanaia:22.4.2016
+Dátum odovzdanaia:19.4.2016
 stav teórie: 100%
-stav praktickej časti: 0%
+stav praktickej časti: 100%
 
-školitel: Burianová
+Školiteľ:  PaedDr. Bc. Mária Burianová, PhD. 
 
-zmena lokalne na pc
+
